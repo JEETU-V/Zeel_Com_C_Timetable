@@ -11,15 +11,12 @@
            text-decoration: wavy;
         }
         .th1{
-            text-align: center;
-
-        }
+            text-align: center;}
         Table {
             Width: 100%;
             Border-collapse: collapse;
         }
-        
-        Th, td {
+          Th, td {
             Border: 1px solid black;
             Padding: 10px;
             Text-align: center;
@@ -99,10 +96,10 @@
             <td>E.M-I [SMZ]<br>[A1-03]</td>
             <td>PSLB [KK]<br>[A1-03]</td>
            
-            <td colspan="2">1: CHEM [MMA]<br>[A3-04]<br>2: PSLB [SK]<br>[A1-10]<br>3: BXEE [VJ]<br>[A3-04]</td>
+<td colspan="2">1: CHEM [MMA]<br>[A3-04]<br>2: PSLB [SK]<br>[A1-10]<br>3: BXEE [VJ]<br>[A3-04]</td>
             <td colspan="2">Liberal Learning<br>[ZCC Sports Ground]</td>
            
-        </tr>
+ </tr>
         <tr>
             <td>Wednesday</td>
             <td class="bg1"></td>
@@ -110,15 +107,15 @@
             <td colspan="2">1: PSLB [SK]<br>[A1-10]<br>2: BXEE [SP]<br>[A3-04]<br>3: CHEM [MMA]<br>[A3-04]</td>
             <td colspan="2"><br>1: BXEE [RJ]<br>[A3-04]<br>2: CHEM [MMA]<br>[A3-04]<br>3: PSLB [SK]<br>[A1-10]</td>
             
-        </tr>
+ </tr>
         <tr>
             <td>Thursday</td>
             <td>E.M-I [SMZ]<br>[A1-05]</td>
             <td>PSLB [kk]<br>[A1-05]</td>
             
-            <td colspan="2">PD-I [EM]<br>[A1-05]</td>
+  <td colspan="2">PD-I [EM]<br>[A1-05]</td>
            
-            <td colspan="2">1. WAD-SP<br>2. WAD-SP [A1-42]</td>
+<td colspan="2">1. WAD-SP<br>2. WAD-SP [A1-42]</td>
         </tr>
         <tr>
             <td>Friday</td>
