@@ -1,4 +1,26 @@
 # Zeel_Com_C_Timetable
+<!DOCTYPE html>
+<html lang=”en”>
+<head>
+    <meta charset=”UTF-8”>
+    <meta name=”viewport” content=”width=device-width, initial-scale=1.0”>
+    <title>Timetable</title>
+    <style>
+        h1{
+ h1{
+            text-align: center;
+           text-decoration: wavy;
+        }
+@@ -17,7 +11,7 @@
+            Border-collapse: collapse;
+        }
+          Th, td {
+            Border: 1px solid black;
+            Border: 1px; solid black;
+            Padding: 10px;
+            Text-align: center;
+        }
+
 
  h1{
             text-align: center;
